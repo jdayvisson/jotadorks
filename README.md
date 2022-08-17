@@ -12,7 +12,7 @@ OBs.: Antes de rodar o busca.py, realize a instalação da biblioteca "googlesea
 Acesse o terminal 
 
 ┌──(root㉿kali)
-└─$ sudo clone https://github.com/jdayvisson/jotadorks
+└─$ git clone https://github.com/jdayvisson/jotadorks
 
 ┌──(root㉿kali)
 └─$ cd jotadorks
