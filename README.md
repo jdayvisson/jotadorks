@@ -1,5 +1,5 @@
 # jotadorks
-Ferramenta para busca, utilizando as dorks do google
+Ferramenta para busca, utilizando as <dorks> do google
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
